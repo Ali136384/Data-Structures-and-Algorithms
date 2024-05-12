@@ -9,7 +9,7 @@ Ali Haseni
 # Step One: Clone the repository
 
 ```
-git clone
+git clone https://github.com/Ali136384/Data-Structures-and-Algorithms.git
 
 ```
 
